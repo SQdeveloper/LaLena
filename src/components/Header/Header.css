@@ -1,0 +1,61 @@
+.header {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    background-color: black;
+    padding: .8rem 1rem;
+    color: var(--color-beige);
+    position: sticky;
+    top: 0;
+    left: 0;    
+    z-index: 10;
+}
+
+.header-top {    
+    width: 100%;
+    color: var(--color-beige);
+    font-family: var(--font-kanit);
+    font-weight: bold;
+    text-align: center;    
+    height: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--color-red);    
+}
+
+.header-logo {
+    height: 2.5rem;
+}
+
+.header-button {
+    background-color: var(--color-red);
+    color: var(--color-beige);
+    font-size: .97rem;
+    padding: .5rem 1rem ;
+    border-radius: .5rem;
+    font-family: var(--font-kanit);
+    font-weight: bold;
+    text-transform: capitalize;
+    transition: background-color .3s, color .3s;
+}
+
+.header-button:hover {
+    background-color: var(--color-beige);
+    color: var(--color-red);
+}
+
+.header-left {
+    display:flex;
+    gap: 1rem;    
+}
+
+.header-left > a {
+    color: var(--color-beige);
+}
+
+.header-left svg {
+    width: 1.5rem;
+    height: 1.5rem;    
+}

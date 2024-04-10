@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Bodoni:ital,wght@0,400..700;1,400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --color-red: #D10F00;
+    --color-beige: #FAE8C9;
+    --color-sky-beige: #FAF3E6;
+    --color-sky-red: #FF3333;
+    --font-bodoni: "Libre Bodoni", serif;
+    --font-kanit: "Kanit", sans-serif;
+}
+
+button {
+    background: transparent;
+    border: none;
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    outline: none;    
+}
+
+li {
+    list-style: none;
+}
+
+input {
+    outline: none;
+    border: none;
+}
+
+.button-style {
+    background-color: transparent;
+    border: 2px solid;    
+    text-transform: uppercase;
+    padding: .7rem 2rem;
+    border-radius: .2rem;
+    display: block;
+    width: fit-content;
+    margin: 0 auto;     
+    font-weight: bold;
+    font-family: var(--font-kanit);
+}

@@ -1,0 +1,114 @@
+[
+    {
+        "name": "Leña Duo con 2 Bebidas Naturales",
+        "description": "1/2 Pollo a La Leña con papas huamantanga, 2 bebidas naturales y ensalada a elección.",
+        "price": 52.90,
+        "image": "https://dtsqpmpjezii4.cloudfront.net/media/app_ecommerce/combos/images_desktops/combo_20_image_desktop_2024_02_14_20_08_08.png",
+        "type": "promotion"
+    },
+    {
+        "name": "Leña Duo con 2 gaseosas de 500ml",
+        "description": "1/2 Pollo a La Leña con papas huamantanga y 2 gaseosas de 500ml",
+        "price": 49.90,
+        "image": "https://dtsqpmpjezii4.cloudfront.net/media/app_ecommerce/combos/images_desktops/combo_19_image_desktop_2024_02_13_14_20_54.png",
+        "type": "promotion"
+    },
+    {
+        "name": "Leña Tradición con Bebida Natural",
+        "description": "1 Pollo a la Leña acompañado de papas huamantanga, ensalada y bebida natural de 1LT a elección.",
+        "price": 85.90,
+        "image": "https://dtsqpmpjezii4.cloudfront.net/media/app_ecommerce/combos/images_desktops/combo_17_image_desktop_2024_02_14_20_07_42.png",
+        "type": "promotion"
+    },
+    {
+        "name": "Leña Tradición con Gaseosa 1.5 LT",
+        "description": "1 Pollo a La Leña acompañado de papas huamantanga, ensalada y gaseosa de 1.5 lt.",
+        "price": 87.90,
+        "image": "https://dtsqpmpjezii4.cloudfront.net/media/app_ecommerce/combos/images_desktops/combo_16_image_desktop_2024_02_14_19_17_06.png",
+        "type": "promotion"
+    },
+    {
+        "name": "Leña Tradición con Gaseosa 1.5 LT",
+        "description": "1 Pollo a La Leña acompañado de papas huamantanga, ensalada y gaseosa de 1.5 lt.",
+        "price": 87.90,
+        "image": "https://dtsqpmpjezii4.cloudfront.net/media/app_ecommerce/combos/images_desktops/combo_18_image_desktop_2024_02_14_18_29_45.png",
+        "type": "promotion"
+    },
+    {
+        "name": "Sabor Hawaiano con Gaseosa 1.5 LT",
+        "description": "1 Pollo a La Leña acompañado de papas a la batalla, ensalada waldorf y gaseosa de 1.5LT",
+        "price": 85.90,
+        "image": "https://dtsqpmpjezii4.cloudfront.net/media/app_ecommerce/combos/images_desktops/combo_12_image_desktop_2024_02_13_14_21_34.png",
+        "type": "promotion"
+    },
+    {
+        "name": "Sabor del Pollo con Bebida Natural",
+        "description": "1 Pollo a La Leña acompañado de 1 guarnición a elección y una bebida natural de 1lt.",
+        "price": 70.90,
+        "image": "https://dtsqpmpjezii4.cloudfront.net/media/app_ecommerce/combos/images_desktops/combo_15_image_desktop_2024_02_14_13_00_52.png",
+        "type": "promotion"
+    },
+    {
+        "name": "1 Pollo a La Leña acompañado de papas a la batalla, ensalada waldorf y bebida natural a elección.",
+        "description": "1 Pollo a La Leña acompañado de papas a la batalla, ensalada waldorf y bebida natural a elección.",
+        "price": 85.90,
+        "image": "https://dtsqpmpjezii4.cloudfront.net/media/app_ecommerce/combos/images_desktops/combo_14_image_desktop_2024_02_13_14_22_20.png",
+        "type": "promotion"
+    },
+    {
+        "name": "Sabor Único con bebida natural",
+        "description": "1/4 de pollo a la leña acompañado de papas huamantanga, ensalada popeye y bebida natural.",
+        "price": 29.90,
+        "image": "https://dtsqpmpjezii4.cloudfront.net/media/app_ecommerce/combos/images_desktops/combo_11_image_desktop_2024_02_14_12_00_48.png",
+        "type": "promotion"
+    },
+    {
+        "name": "Sabor Único con Gaseosa",
+        "description": "1/4 de pollo a la leña acompañado de papas huamantanga, gaseosa de 500 ml y ensalada popeye.",
+        "price": 29.90,
+        "image": "https://dtsqpmpjezii4.cloudfront.net/media/app_ecommerce/combos/images_desktops/combo_13_image_desktop_2024_02_13_14_20_16.png",
+        "type": "promotion"
+    },
+    {
+        "name": "1/2 Pollo a La Leña Hawaiano",
+        "description": "1/2 Pollo a la leña hawaiano acompañado con papas a la batalla y ensalada waldorf.",
+        "price": 48.90,
+        "image": "https://dtsqpmpjezii4.cloudfront.net/media/app_ecommerce/combos/images_desktops/combo_10_image_desktop_2024_02_13_13_19_51.png",
+        "type": "clasic"
+    },
+    {
+        "name": "1/2 Pollo a La Leña Tradicional",
+        "description": "1/2 pollo a La Leña acompañado de papas de la casa y ensalada a elección.",
+        "price": 45.90,
+        "image": "https://dtsqpmpjezii4.cloudfront.net/media/app_ecommerce/combos/images_desktops/combo_7_image_desktop_2024_02_13_13_18_49.png",
+        "type": "clasic"
+    },
+    {
+        "name": "1/4 de Pollo a la Leña Tradicional",
+        "description": "1/4 de pollo a la leña acompañado de papas de la casa y ensalada elección.",
+        "price": 27.90,
+        "image": "https://dtsqpmpjezii4.cloudfront.net/media/app_ecommerce/combos/images_desktops/combo_6_image_desktop_2024_02_14_11_59_39.png",
+        "type": "clasic"
+    },
+    {
+        "name": "1/4 Pollo a la Leña Hawaiano",
+        "description": "1/4 pollo a la leña acompañado de papas a la batalla y ensalada waldorf.",
+        "price": 30.90,
+        "image": "https://dtsqpmpjezii4.cloudfront.net/media/app_ecommerce/combos/images_desktops/combo_8_image_desktop_2024_02_13_14_38_43.png",
+        "type": "clasic"
+    },
+    {
+        "name": "1 Pollo a La Leña Hawaiano",
+        "description": "1 Pollo a la Leña acompañado de papas a la batalla y ensalada waldorf.",
+        "price": 79.90,
+        "image": "https://dtsqpmpjezii4.cloudfront.net/media/app_ecommerce/combos/images_desktops/combo_9_image_desktop_2024_02_14_09_50_37.jpg",
+        "type": "clasic"
+    },
+    {
+        "name": "1 Pollo a La Leña Tradicional",
+        "description": "1 Pollo a la Leña acompado de papas de la casa y ensalada a elección.",
+        "price": 78.90,
+        "image": "https://dtsqpmpjezii4.cloudfront.net/media/app_ecommerce/combos/images_desktops/combo_5_image_desktop_2024_02_14_17_54_27.png",
+        "type": "clasic"
+    }
+]
