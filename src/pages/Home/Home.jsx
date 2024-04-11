@@ -2,6 +2,7 @@ import React from 'react';
 import Hero from '../../components/Hero/Hero';
 import Header from '../../components/Header/Header';
 import './Home.css';
+import { Link } from 'react-router-dom';
 
 const Home = () => {
     return (
@@ -85,6 +86,65 @@ const Home = () => {
                         </div>
                     </div>
                     <button className="button-style">ver más</button>
+                </section>
+                <section className="home_comunity">
+                    <div className="home_comunity__left">
+                        <img src="/icons/iconSnowFlake.svg" alt="flower_red" />
+                        <h2>NUESTRA <br/> COMUNIDAD</h2>
+                        <span>Manténte al tanto de todo</span>
+                        <div className="content_tiktok">
+                            <div className="content_tiktok__top">
+                                <img src="/images/logo/logo-red.webp" alt="logo" />
+                                <div className="content_tiktok__top-info">
+                                    <strong>@lalenaperu</strong>
+                                    <span>Restaurant</span>
+                                    <p>Si sabe a la Leña es nuestro</p>
+                                </div>
+                                <button>seguir</button>
+                            </div>
+                            <div className="content_tiktok__videos">
+                                <div className="content_tiktok__video">
+                                    <img src="/fotogramas/fotograma1.png" alt="food" />
+                                </div>
+                                <div className="content_tiktok__video">
+                                    <img src="/fotogramas/fotograma2.png" alt="food" />
+                                </div>
+                                <div className="content_tiktok__video">
+                                    <img src="/fotogramas/fotograma3.png" alt="food" />
+                                </div>
+                                <div className="content_tiktok__video">
+                                    <img src="/fotogramas/fotograma4.png" alt="food" />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="home_comunity__right">
+                        <div className="tiktok_vertical">
+                            <div className="tiktok_vertical-box">
+                                <img src="/tiktok-photos/tiktok-photo.png" alt="tiktok" />
+                            </div>
+                            <div className="tiktok_vertical-box">
+                                <img src="/tiktok-photos/tiktok-photo2.png" alt="tiktok" />
+                            </div>
+                        </div>
+                        <div className="tiktok_vertical">
+                            <div className="tiktok_vertical-box">
+                                <img src="/tiktok-photos/tiktok-photo3.png" alt="tiktok" />
+                            </div>
+                            <div className="tiktok_vertical-box">
+                                <img src="/tiktok-photos/tiktok-photo4.png" alt="tiktok" />
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <section className="home_joinGroup">
+                    <div className="home_joinGroup__info">
+                        <img src="/icons/iconHeart.svg" alt="about us" />
+                        <h2>únete a nuestro equipo</h2>
+                        <p>¿Quieres formar parte de nuestra familia? Estamos en búsqueda del mejor talento, personas aguerridas y de propósito para seguir creciendo juntos.</p>
+                        <Link className='button-style'>trabaja con nosotros</Link>
+                    </div>
+                    <img src="/images/bg/chefs.webp" alt="chefs" />
                 </section>
             </div>
         </>

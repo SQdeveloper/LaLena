@@ -1,0 +1,45 @@
+.footer {
+    display: flex;
+    gap: 1rem;
+    justify-content: space-between;
+    padding: 2rem 3rem;
+    background-color: var(--color-red);
+    color: var(--color-beige);
+    flex-wrap: wrap;
+}
+
+
+.footer_box h3 {
+    text-transform: uppercase;
+    font-size: 1.3rem;
+    margin-bottom: .5rem;
+}
+
+.footer_box ul {
+    display: flex;
+    flex-direction: column;
+    gap: .3rem;
+}
+
+.footer_box li a, .footer_box li {
+    color: var(--color-sky-beige);
+    font-weight: lighter;
+    font-size: .8rem;
+    font-family: var(--font-roboto);
+}
+
+.footer_box-logo {
+    width: 7rem;
+    height: 7rem;
+}
+
+.footer_box_redes {
+    display: flex;
+    gap: 1rem;
+}
+
+.footer_box_redes svg {
+    width: 1.5rem;
+    height: 1.5rem;
+    color: var(--color-beige);
+}

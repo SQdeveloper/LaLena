@@ -51,7 +51,7 @@
     gap: 1rem;    
 }
 
-.header-left > a {
+.header-left > button{
     color: var(--color-beige);
 }
 

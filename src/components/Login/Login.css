@@ -1,0 +1,108 @@
+.login-bg {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,.7);
+    z-index: 11;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    transition: opacity .3s;
+    pointer-events: none;    
+}
+
+.login-bg.active {
+    opacity: 1;
+    pointer-events: all;    
+}
+
+.login {
+    display: flex;
+    flex-direction: column;
+    padding: 1.5rem;
+    background-color: white;
+    width: 39rem;
+    border-radius: .5rem;
+}
+
+.login > div:first-child {
+    margin: 0 0 .5rem;
+}
+
+.login h2 {
+    font-size: 1.8rem;
+    font-weight: bolder;
+    width: 20rem;
+    margin: 0 auto;
+    margin-bottom: 2rem;
+    text-align: center;
+    font-family: var(--font-bodoni);
+}
+
+.login label {
+    font-family: var(--font-bodoni);
+}
+
+.login input {
+    display: block;
+    border: 1px solid rgb(194, 193, 193);
+    padding: .7rem .8rem;
+    border-radius: .3rem;
+    font-family: var(--font-roboto);
+    width: 100%;
+    margin: 1rem 0 2.2rem;
+}
+
+.login input::placeholder {
+    color: rgb(194, 193, 193);    
+}
+
+.login form button {
+    background-color: rgb(11,11,11);
+    color: var(--color-beige);
+    text-transform: uppercase;
+    font-size: .9rem;
+    letter-spacing: 1px;
+    border-radius: .3rem;
+    font-family: var(--font-bodoni);
+    padding: .9rem 2rem;
+    margin: 0 auto;    
+    display: block;
+    transition: opacity .3s;
+}
+
+.login form button:hover {
+    opacity: .8;
+}
+
+.login > div {
+    display: flex;
+    gap: .5rem;
+    font-size: .9rem;
+    margin: 0 auto;
+    margin-top: 1.6rem;
+}
+
+.login > div span {
+    font-family: var(--font-roboto);
+    font-weight: 400;
+}
+
+.login > div a {
+    font-family: var(--font-roboto);
+    color: var(--color-red);
+    font-weight: 500;
+}
+
+.login-button-close {
+    display: flex;
+    justify-content: end;
+    width: 100%;    
+}
+
+.login-button-close img {    
+    filter: invert(100%);    
+}
